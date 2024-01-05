@@ -8,8 +8,10 @@ print(len(letters))
 
 letters[1:5] = []
 print(letters)
+print(len(letters))
 
 # replace all
 
 letters[:] = []
 print(letters)
+print(len(letters))
