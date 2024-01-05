@@ -5,3 +5,6 @@ num = [1, 2, 3]
 
 x = [mas, num]
 print(x)
+
+# let's use array
+print(x[1][2])
