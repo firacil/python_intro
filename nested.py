@@ -8,3 +8,7 @@ print(x)
 
 # let's use array
 print(x[1][2])
+
+x[1][2] = 102
+
+print(x[1][2])
